@@ -1,1 +1,2 @@
 # GIT_Schema
+Di sebuah kota kecil yang terletak di pedalaman hutan belantara, hiduplah seorang pemuda bernama Ario. Ario adalah seorang petualang sejati yang gemar menjelajahi hutan-hutan terpencil untuk menemukan keindahan alam yang tersembunyi. Pada suatu hari, ketika sedang melakukan ekspedisi di dalam hutan yang belum pernah ia kunjungi sebelumnya, Ario tersesat karena cuaca mendadak berubah buruk. Hujan deras dan kabut tebal membuatnya kehilangan arah, namun dengan tekad yang kuat, Ario terus berusaha untuk mencari jalan keluar.
