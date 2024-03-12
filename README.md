@@ -1,2 +1,6 @@
 # GIT_Schema
+<<<<<<< HEAD
 Di sebuah kota kecil yang terletak di pedalaman hutan belantara, hiduplah seorang pemuda bernama Ario. Ario adalah seorang petualang sejati yang gemar menjelajahi hutan-hutan terpencil untuk menemukan keindahan alam yang tersembunyi. Pada suatu hari, ketika sedang melakukan ekspedisi di dalam hutan yang belum pernah ia kunjungi sebelumnya, Ario tersesat karena cuaca mendadak berubah buruk. Hujan deras dan kabut tebal membuatnya kehilangan arah, namun dengan tekad yang kuat, Ario terus berusaha untuk mencari jalan keluar.
+=======
+Saat berkeliling mencari petunjuk arah, Ario tanpa sengaja menemukan sebuah gua yang tersembunyi di balik semak belukar. Meskipun ragu-ragu, rasa penasaran yang menggebu membuatnya memutuskan untuk menjelajahi gua tersebut. Di dalamnya, ia menemukan sebuah terowongan yang mengarah ke dalam kegelapan. Dengan hati-hati, Ario memasuki terowongan itu dan terkejut melihat cahaya yang redup memancar dari ujung terowongan. Ternyata, gua itu membawanya ke sebuah ruangan tersembunyi yang dipenuhi dengan artefak kuno dan harta karun yang telah terlupakan selama bertahun-tahun. Keberuntungan akhirnya tersenyum pada Ario, namun petualangannya belum berakhir.
+>>>>>>> Branch_2
